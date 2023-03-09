@@ -1,6 +1,6 @@
 Daftar-Biodata-Siswa
 ==
-Daftar biodata Siswa Di BPC
+Daftar biodata Siswa Di Dicoding Academy
 --
 *biodata siswa terdiri dari 3 angkatan yaitu sebagai berikut*
 - Angkatan 2019
